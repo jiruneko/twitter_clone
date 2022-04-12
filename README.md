@@ -1,1 +1,1 @@
-# twitter_clone
+# SNS clone
