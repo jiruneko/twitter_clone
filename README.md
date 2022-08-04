@@ -1,1 +1,1 @@
-# SNS Clone
+# SNS(Twitter like) Clone
